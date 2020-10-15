@@ -1,0 +1,2 @@
+#	Model for regularisation of warp-field [membrane_energy bending_energy], default bending_energy
+--regmod=membrane_energy
