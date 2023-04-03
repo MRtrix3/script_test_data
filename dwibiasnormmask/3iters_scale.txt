@@ -1,0 +1,2 @@
+# command_history: /home/unimelb.edu.au/robertes/src/mrtrix3/bin/dwibiasnormmask tmp-sub-01_dwi.mif -max_iters 3 -dice 1.0 dwibiasnormmask/3iters_out.mif.gz dwibiasnormmask/3iters_mask.mif.gz -output_bias dwibiasnormmask/3iters_bias.mif.gz -output_scale dwibiasnormmask/3iters_scale.txt -output_tissuesum dwibiasnormmask/3iters_tissuesum.mif.gz  (version=3.0.4-447-g478f0e42-dirty)
+0.960898640446371
