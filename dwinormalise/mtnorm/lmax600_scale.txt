@@ -1,0 +1,2 @@
+# command_history: /home/unimelb.edu.au/robertes/src/mrtrix3/bin/dwinormalise mtnorm BIDS/sub-01/dwi/sub-01_dwi.nii.gz -lmax 6,0,0 -fslgrad BIDS/sub-01/dwi/sub-01_dwi.bvec BIDS/sub-01/dwi/sub-01_dwi.bval dwinormalise/mtnorm/lmax600_out.mif.gz -scale dwinormalise/mtnorm/lmax600_scale.txt  (version=3.0.4-449-g19698ddf)
+0.991162329106367
