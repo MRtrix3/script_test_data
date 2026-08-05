@@ -1,5 +1,5 @@
-# Shells: 0,1000,1999,3000
-# command_history: /home/rob/src/mrtrix3/bin/amp2response dwi.mif voxels_csf.mif safe_vecs.mif response_csf.txt -shells '0,1000,2000,3000' -isotropic  (version=3.0_RC4-40-g11bf1b0a-dirty)
+# Shells: 0,1000,2000,3000
+# command_history: /home/unimelb.edu.au/robertes/src/worktrees/bisect/.bisect/wt/bin/amp2response dwi.mif voxels_csf.mif safe_vecs.mif response_csf.txt -shells '0,1000,2000,3000' -isotropic -nthreads 1  (version=3.0.2-126-gcfc468d9)
 3771.11370277633
 151.463096064408
 42.5615075848176

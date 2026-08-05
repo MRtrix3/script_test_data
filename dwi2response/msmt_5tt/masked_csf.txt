@@ -1,4 +1,6 @@
-1893.73125016809
+# Shells: 0,1000,2000,3000
+# command_history: /home/unimelb.edu.au/robertes/src/worktrees/bisect/.bisect/wt/bin/amp2response dwi.mif csf_mask.mif dirs.mif csf.txt -shells '0,1000,2000,3000' -isotropic -nthreads 1  (version=3.0.2-126-gcfc468d9)
+1893.7312501681
 140.865706849945
-63.7960291464819
+63.796029146482
 47.1559790038313
