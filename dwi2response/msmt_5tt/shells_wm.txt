@@ -1,4 +1,4 @@
 # Shells: 0,2000
-# command_history: /home/unimelb.edu.au/robertes/src/worktrees/bisect/.bisect/wt/bin/amp2response dwi.mif wm_sf_mask.mif dirs.mif wm.txt -shells '0,2000' -nthreads 1  (version=3.0.2-126-gcfc468d9)
+# command_history: /home/unimelb.edu.au/robertes/src/worktrees/bisect/.bisect/build/bin/amp2response dwi.mif wm_sf_mask.mif dirs.mif wm.txt -shells '0,2000' -nthreads 1  (version=3.0.8-2028-g9482c5a5)
 666.047894234781 0 0 0 0 0
-207.965005533877 -78.4896407825961 21.9725479801365 -4.4262146085287 0.590285644617299 -0.262137507073837
+207.965005411383 -78.4896408286568 21.9725480435996 -4.4262146332816 0.590285624327299 -0.262137492368024

@@ -1,3 +1,3 @@
 # Shells: 3000
-# command_history: /home/unimelb.edu.au/robertes/src/worktrees/bisect/.bisect/wt/bin/amp2response dwi.mif iter10_SF.mif iter10_first_dir.mif iter10_RF.txt -nthreads 1  (version=3.0.2-126-gcfc468d9)
-145.279393069986 -65.1285178547655 24.3857327347275 -6.82222851565805 1.55698452660873 -0.322446997741414
+# command_history: /home/unimelb.edu.au/robertes/src/worktrees/bisect/.bisect/build/bin/amp2response dwi.mif iter10_SF.mif iter10_first_dir.mif iter10_RF.txt -nthreads 1  (version=3.0.8-2028-g9482c5a5)
+144.989931334627 -64.9363891887718 24.2663870864312 -6.76000025008166 1.53148532611171 -0.336585291511165

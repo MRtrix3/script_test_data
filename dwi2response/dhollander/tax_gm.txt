@@ -1,5 +1,5 @@
 # Shells: 0,1000,2000,3000
-# command_history: /home/unimelb.edu.au/robertes/src/worktrees/bisect/.bisect/wt/bin/amp2response dwi.mif voxels_gm.mif safe_vecs.mif response_gm.txt -shells '0,1000,2000,3000' -isotropic -nthreads 1  (version=3.0.2-126-gcfc468d9)
+# command_history: /home/unimelb.edu.au/robertes/src/worktrees/bisect/.bisect/build/bin/amp2response dwi.mif voxels_gm.mif safe_vecs.mif response_gm.txt -shells '0,1000,2000,3000' -isotropic -nthreads 1  (version=3.0.8-2087-gaaedd49f)
 941.523365412354
 379.82264936183
 199.085401403842

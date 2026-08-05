@@ -1,4 +1,4 @@
 # Shells: 0,2000
-# command_history: /home/unimelb.edu.au/robertes/src/worktrees/bisect/.bisect/wt/bin/amp2response dwi.mif gm_mask.mif dirs.mif gm.txt -shells '0,2000' -isotropic -nthreads 1  (version=3.0.2-126-gcfc468d9)
+# command_history: /home/unimelb.edu.au/robertes/src/worktrees/bisect/.bisect/build/bin/amp2response dwi.mif gm_mask.mif dirs.mif gm.txt -shells '0,2000' -isotropic -nthreads 1  (version=3.0.8-2028-g9482c5a5)
 1019.34317340643
 191.300402886718
